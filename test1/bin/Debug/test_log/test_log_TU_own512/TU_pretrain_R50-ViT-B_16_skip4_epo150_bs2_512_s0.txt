@@ -1,0 +1,832 @@
+[20:32:34.673] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/x-ray-data/0109_datasets_old/normal', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/x-ray-data/0109_datasets_old/normal', z_spacing=1)
+[20:32:34.673] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:32:34.701] 491 test iterations per epoch
+[20:40:29.936] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[20:40:29.936] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:40:29.937] 1 test iterations per epoch
+[20:40:31.392] Mean class 1 dice 1.000000
+[20:40:31.392] Testing performance in best val model: dice : 1.000000
+[20:44:08.440] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[20:44:08.440] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:44:08.441] 1 test iterations per epoch
+[20:44:09.923] Mean class 1 dice 1.000000
+[20:44:09.923] Testing performance in best val model: dice : 1.000000
+[20:46:22.409] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[20:46:22.409] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:46:22.409] 1 test iterations per epoch
+[20:46:23.906] Mean class 1 dice 0.000000
+[20:46:23.906] Testing performance in best val model: dice : 0.000000
+[20:46:54.738] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[20:46:54.738] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:46:54.738] 1 test iterations per epoch
+[20:46:56.219] Mean class 1 dice 0.000000
+[20:46:56.219] Testing performance in best val model: dice : 0.000000
+[20:47:54.545] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[20:47:54.545] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:47:54.546] 1 test iterations per epoch
+[20:47:56.064] Mean class 1 dice 0.000000
+[20:47:56.065] Testing performance in best val model: dice : 0.000000
+[20:48:39.378] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[20:48:39.378] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:48:39.378] 1 test iterations per epoch
+[20:48:40.905] Mean class 1 dice 0.000000
+[20:48:40.905] Testing performance in best val model: dice : 0.000000
+[20:54:25.791] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[20:54:25.792] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:54:25.792] 1 test iterations per epoch
+[20:54:27.292] Mean class 1 dice 0.000000
+[20:54:27.292] Testing performance in best val model: dice : 0.000000
+[20:54:51.825] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[20:54:51.825] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:54:51.825] 1 test iterations per epoch
+[20:54:53.297] Mean class 1 dice 0.000000
+[20:54:53.297] Testing performance in best val model: dice : 0.000000
+[20:55:38.092] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[20:55:38.092] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:55:38.093] 1 test iterations per epoch
+[20:55:39.586] Mean class 1 dice 0.000000
+[20:55:39.586] Testing performance in best val model: dice : 0.000000
+[20:58:12.864] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[20:58:12.864] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:58:12.864] 1 test iterations per epoch
+[20:58:14.353] Mean class 1 dice 0.000000
+[20:58:14.353] Testing performance in best val model: dice : 0.000000
+[21:22:43.682] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[21:22:43.683] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[21:22:43.683] 1 test iterations per epoch
+[21:22:45.151] Mean class 1 dice 0.000000
+[21:22:45.151] Testing performance in best val model: dice : 0.000000
+[21:28:37.507] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[21:28:37.507] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[21:28:37.507] 1 test iterations per epoch
+[21:28:38.984] Mean class 1 dice 0.000000
+[21:28:38.985] Testing performance in best val model: dice : 0.000000
+[14:40:39.466] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[14:40:39.466] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:40:39.467] 1 test iterations per epoch
+[14:40:40.940] Mean class 1 dice 0.000000
+[14:40:40.940] Testing performance in best val model: dice : 0.000000
+[13:49:54.079] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[13:49:54.087] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[13:49:54.087] 1 test iterations per epoch
+[13:49:56.017] Mean class 1 dice 0.000000
+[13:49:56.017] Testing performance in best val model: dice : 0.000000
+[13:54:37.027] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[13:54:37.027] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[13:54:37.028] 1 test iterations per epoch
+[13:54:38.531] Mean class 1 dice 0.000000
+[13:54:38.531] Testing performance in best val model: dice : 0.000000
+[14:04:06.115] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[14:04:06.115] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:04:06.116] 1 test iterations per epoch
+[14:04:07.613] Mean class 1 dice 0.000000
+[14:04:07.613] Testing performance in best val model: dice : 0.000000
+[14:04:43.728] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[14:04:43.728] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:04:43.729] 1 test iterations per epoch
+[14:04:45.254] Mean class 1 dice 0.000000
+[14:04:45.254] Testing performance in best val model: dice : 0.000000
+[14:05:09.312] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[14:05:09.313] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:05:09.313] 1 test iterations per epoch
+[14:05:10.845] Mean class 1 dice 0.000000
+[14:05:10.845] Testing performance in best val model: dice : 0.000000
+[14:07:54.112] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[14:07:54.112] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:07:54.112] 1 test iterations per epoch
+[14:07:55.654] Mean class 1 dice 0.000000
+[14:07:55.654] Testing performance in best val model: dice : 0.000000
+[16:40:57.539] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[16:40:57.539] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:40:57.540] 1 test iterations per epoch
+[16:40:59.011] Mean class 1 dice 0.000000
+[16:40:59.012] Testing performance in best val model: dice : 0.000000
+[16:41:49.735] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[16:41:49.735] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:41:49.736] 1 test iterations per epoch
+[16:41:51.208] Mean class 1 dice 0.000000
+[16:41:51.208] Testing performance in best val model: dice : 0.000000
+[16:43:03.461] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[16:43:03.462] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:43:03.462] 1 test iterations per epoch
+[16:43:05.068] Mean class 1 dice 0.000000
+[16:43:05.068] Testing performance in best val model: dice : 0.000000
+[16:43:49.997] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[16:43:49.997] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:43:49.998] 1 test iterations per epoch
+[16:43:51.539] Mean class 1 dice 0.000000
+[16:43:51.539] Testing performance in best val model: dice : 0.000000
+[16:44:57.262] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[16:44:57.262] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:44:57.262] 1 test iterations per epoch
+[16:44:58.743] Mean class 1 dice 0.000000
+[16:44:58.743] Testing performance in best val model: dice : 0.000000
+[16:55:05.068] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[16:55:05.068] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:55:05.068] 1 test iterations per epoch
+[16:55:06.592] Mean class 1 dice 0.000000
+[16:55:06.592] Testing performance in best val model: dice : 0.000000
+[16:59:48.215] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[16:59:48.215] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:59:48.215] 1 test iterations per epoch
+[16:59:49.778] Mean class 1 dice 0.000000
+[16:59:49.778] Testing performance in best val model: dice : 0.000000
+[17:00:49.608] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[17:00:49.608] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[17:00:49.609] 1 test iterations per epoch
+[17:00:51.199] Mean class 1 dice 0.000000
+[17:00:51.199] Testing performance in best val model: dice : 0.000000
+[17:02:42.116] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[17:02:42.116] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[17:02:42.117] 1 test iterations per epoch
+[17:02:43.642] Mean class 1 dice 0.000000
+[17:02:43.642] Testing performance in best val model: dice : 0.000000
+[17:02:54.122] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[17:02:54.122] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[17:02:54.122] 1 test iterations per epoch
+[17:02:55.647] Mean class 1 dice 0.000000
+[17:02:55.647] Testing performance in best val model: dice : 0.000000
+[17:03:22.656] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[17:03:22.656] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[17:03:22.656] 1 test iterations per epoch
+[17:03:24.169] Mean class 1 dice 0.000000
+[17:03:24.169] Testing performance in best val model: dice : 0.000000
+[14:52:48.861] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/Shin/TransUnet_predict/data/1202_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/Shin/TransUnet_predict/data/1202_data', z_spacing=1)
+[14:52:48.861] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:52:48.862] 1 test iterations per epoch
+[14:52:50.511] Mean class 1 dice 0.000000
+[14:52:50.512] Testing performance in best val model: dice : 0.000000
+[17:48:14.028] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[17:48:14.028] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[17:48:14.029] 4 test iterations per epoch
+[17:48:23.992] Mean class 1 dice 0.500000
+[17:48:23.992] Testing performance in best val model: dice : 0.500000
+[17:49:09.305] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[17:49:09.305] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[17:49:09.306] 4 test iterations per epoch
+[17:49:19.060] Mean class 1 dice 0.500000
+[17:49:19.060] Testing performance in best val model: dice : 0.500000
+[17:54:26.705] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[17:54:26.705] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[17:54:26.706] 4 test iterations per epoch
+[17:54:36.400] Mean class 1 dice 0.500000
+[17:54:36.400] Testing performance in best val model: dice : 0.500000
+[17:55:03.560] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[17:55:03.560] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[17:55:03.561] 4 test iterations per epoch
+[17:55:13.194] Mean class 1 dice 0.500000
+[17:55:13.195] Testing performance in best val model: dice : 0.500000
+[17:55:51.986] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[17:55:51.987] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[17:55:51.987] 4 test iterations per epoch
+[17:56:01.713] Mean class 1 dice 0.500000
+[17:56:01.713] Testing performance in best val model: dice : 0.500000
+[17:57:28.075] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[17:57:28.075] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[17:57:28.075] 4 test iterations per epoch
+[17:57:37.769] Mean class 1 dice 0.500000
+[17:57:37.770] Testing performance in best val model: dice : 0.500000
+[17:58:04.129] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[17:58:04.129] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[17:58:04.129] 4 test iterations per epoch
+[17:58:13.810] Mean class 1 dice 0.500000
+[17:58:13.810] Testing performance in best val model: dice : 0.500000
+[17:59:54.499] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[17:59:54.499] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[17:59:54.500] 4 test iterations per epoch
+[18:00:04.191] Mean class 1 dice 0.500000
+[18:00:04.192] Testing performance in best val model: dice : 0.500000
+[18:01:33.428] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[18:01:33.428] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[18:01:33.429] 4 test iterations per epoch
+[18:01:43.180] Mean class 1 dice 0.500000
+[18:01:43.180] Testing performance in best val model: dice : 0.500000
+[18:04:23.795] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[18:04:23.795] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[18:04:23.795] 4 test iterations per epoch
+[18:04:33.270] Mean class 1 dice 0.500000
+[18:04:33.270] Testing performance in best val model: dice : 0.500000
+[18:07:14.705] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[18:07:14.705] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[18:07:14.706] 4 test iterations per epoch
+[18:07:24.225] Mean class 1 dice 0.500000
+[18:07:24.225] Testing performance in best val model: dice : 0.500000
+[18:21:51.438] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[18:21:51.438] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[18:21:51.438] 4 test iterations per epoch
+[18:22:00.968] Mean class 1 dice 0.500000
+[18:22:00.968] Testing performance in best val model: dice : 0.500000
+[18:22:32.524] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[18:22:32.525] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[18:22:32.525] 4 test iterations per epoch
+[18:22:42.070] Mean class 1 dice 0.500000
+[18:22:42.070] Testing performance in best val model: dice : 0.500000
+[18:30:34.216] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[18:30:34.216] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[18:30:34.217] 4 test iterations per epoch
+[18:30:44.036] Mean class 1 dice 0.500000
+[18:30:44.036] Testing performance in best val model: dice : 0.500000
+[18:44:17.714] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[18:44:17.714] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[18:44:17.715] 4 test iterations per epoch
+[18:44:27.241] Mean class 1 dice 0.500000
+[18:44:27.241] Testing performance in best val model: dice : 0.500000
+[18:54:56.538] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[18:54:56.538] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[18:54:56.539] 4 test iterations per epoch
+[18:55:06.093] Mean class 1 dice 0.500000
+[18:55:06.093] Testing performance in best val model: dice : 0.500000
+[21:48:21.158] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[21:48:21.158] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[21:48:21.159] 4 test iterations per epoch
+[21:48:30.947] Mean class 1 dice 0.500000
+[21:48:30.947] Testing performance in best val model: dice : 0.500000
+[21:48:50.236] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[21:48:50.236] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[21:48:50.237] 4 test iterations per epoch
+[21:48:59.996] Mean class 1 dice 0.500000
+[21:48:59.996] Testing performance in best val model: dice : 0.500000
+[22:07:42.792] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[22:07:42.793] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[22:07:42.793] 4 test iterations per epoch
+[22:07:52.593] Mean class 1 dice 0.500000
+[22:07:52.593] Testing performance in best val model: dice : 0.500000
+[22:12:29.455] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[22:12:29.455] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[22:12:29.456] 4 test iterations per epoch
+[22:12:39.419] Mean class 1 dice 0.500000
+[22:12:39.419] Testing performance in best val model: dice : 0.500000
+[14:59:35.951] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[14:59:35.951] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:59:35.952] 4 test iterations per epoch
+[15:51:29.342] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[15:51:29.343] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:51:29.343] 4 test iterations per epoch
+[15:51:39.178] Mean class 1 dice 0.500000
+[15:51:39.178] Testing performance in best val model: dice : 0.500000
+[14:28:55.351] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[14:28:55.378] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:28:55.378] 4 test iterations per epoch
+[14:29:08.006] Mean class 1 dice 0.500000
+[14:29:08.007] Testing performance in best val model: dice : 0.500000
+[14:30:48.685] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[14:30:48.685] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:30:48.686] 4 test iterations per epoch
+[14:30:58.647] Mean class 1 dice 0.500000
+[14:30:58.647] Testing performance in best val model: dice : 0.500000
+[14:31:17.131] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[14:31:17.131] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:31:17.131] 4 test iterations per epoch
+[14:31:26.947] Mean class 1 dice 0.500000
+[14:31:26.947] Testing performance in best val model: dice : 0.500000
+[14:32:41.431] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[14:32:41.431] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:32:41.431] 4 test iterations per epoch
+[14:32:51.114] Mean class 1 dice 0.500000
+[14:32:51.114] Testing performance in best val model: dice : 0.500000
+[15:11:11.358] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[15:11:11.358] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:11:11.358] 4 test iterations per epoch
+[15:11:21.377] Mean class 1 dice 0.500000
+[15:11:21.377] Testing performance in best val model: dice : 0.500000
+[15:25:18.818] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[15:25:18.818] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:25:18.834] 4 test iterations per epoch
+[15:25:28.615] Mean class 1 dice 0.500000
+[15:25:28.615] Testing performance in best val model: dice : 0.500000
+[15:39:10.833] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[15:39:10.833] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:39:10.833] 4 test iterations per epoch
+[15:39:20.677] Mean class 1 dice 0.500000
+[15:39:20.677] Testing performance in best val model: dice : 0.500000
+[15:39:51.967] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[15:39:51.967] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:39:51.967] 4 test iterations per epoch
+[15:40:01.701] Mean class 1 dice 0.500000
+[15:40:01.701] Testing performance in best val model: dice : 0.500000
+[15:44:29.363] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[15:44:29.363] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:44:29.364] 4 test iterations per epoch
+[15:44:39.031] Mean class 1 dice 0.500000
+[15:44:39.031] Testing performance in best val model: dice : 0.500000
+[23:12:49.275] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[23:12:49.275] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[23:12:49.275] 4 test iterations per epoch
+[23:12:59.003] Mean class 1 dice 0.250000
+[23:12:59.003] Testing performance in best val model: dice : 0.250000
+[23:13:27.502] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[23:13:27.502] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[23:13:27.503] 4 test iterations per epoch
+[23:13:37.128] Mean class 1 dice 0.250000
+[23:13:37.128] Testing performance in best val model: dice : 0.250000
+[22:25:02.111] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[22:25:02.139] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[22:25:02.140] 4 test iterations per epoch
+[14:51:03.880] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[14:51:03.913] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:51:03.914] 4 test iterations per epoch
+[14:51:26.218] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[14:51:26.218] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:51:26.219] 4 test iterations per epoch
+[14:51:36.274] Mean class 1 dice 0.250000
+[14:51:36.274] Testing performance in best val model: dice : 0.250000
+[14:53:11.854] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[14:53:11.854] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:53:11.854] 4 test iterations per epoch
+[14:53:21.709] Mean class 1 dice 0.250000
+[14:53:21.709] Testing performance in best val model: dice : 0.250000
+[17:54:57.093] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[17:54:57.105] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[17:54:57.105] 4 test iterations per epoch
+[17:55:07.306] Mean class 1 dice 0.250000
+[17:55:07.306] Testing performance in best val model: dice : 0.250000
+[19:29:31.778] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[19:29:31.778] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[19:29:31.779] 4 test iterations per epoch
+[19:29:41.578] Mean class 1 dice 0.250000
+[19:29:41.578] Testing performance in best val model: dice : 0.250000
+[19:30:24.620] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[19:30:24.620] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[19:30:24.621] 4 test iterations per epoch
+[19:30:43.144] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[19:30:43.144] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[19:30:43.145] 4 test iterations per epoch
+[19:30:52.868] Mean class 1 dice 0.250000
+[19:30:52.868] Testing performance in best val model: dice : 0.250000
+[19:33:24.384] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[19:33:24.384] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[19:33:24.384] 4 test iterations per epoch
+[19:33:34.077] Mean class 1 dice 0.250000
+[19:33:34.077] Testing performance in best val model: dice : 0.250000
+[19:34:28.103] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[19:34:28.104] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[19:34:28.104] 4 test iterations per epoch
+[19:35:18.254] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[19:35:18.254] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[19:35:18.255] 4 test iterations per epoch
+[19:35:28.231] Mean class 1 dice 0.250000
+[19:35:28.231] Testing performance in best val model: dice : 0.250000
+[19:49:12.960] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[19:49:12.960] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[19:49:12.961] 4 test iterations per epoch
+[19:49:22.547] Mean class 1 dice 0.250000
+[19:49:22.547] Testing performance in best val model: dice : 0.250000
+[20:07:29.299] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[20:07:29.300] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:07:29.300] 4 test iterations per epoch
+[20:07:38.865] Mean class 1 dice 0.250000
+[20:07:38.865] Testing performance in best val model: dice : 0.250000
+[20:10:01.830] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[20:10:01.830] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:10:01.831] 4 test iterations per epoch
+[20:10:11.371] Mean class 1 dice 0.250000
+[20:10:11.371] Testing performance in best val model: dice : 0.250000
+[20:12:40.954] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[20:12:40.954] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:12:40.954] 4 test iterations per epoch
+[20:12:50.348] Mean class 1 dice 0.250000
+[20:12:50.348] Testing performance in best val model: dice : 0.250000
+[20:25:18.843] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[20:25:18.844] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:25:18.844] 4 test iterations per epoch
+[20:25:28.880] Mean class 1 dice 0.250000
+[20:25:28.880] Testing performance in best val model: dice : 0.250000
+[20:33:06.544] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[20:33:06.544] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:33:06.545] 4 test iterations per epoch
+[20:33:16.693] Mean class 1 dice 0.250000
+[20:33:16.693] Testing performance in best val model: dice : 0.250000
+[20:34:25.917] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[20:34:25.917] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:34:25.918] 4 test iterations per epoch
+[20:34:35.543] Mean class 1 dice 0.250000
+[20:34:35.543] Testing performance in best val model: dice : 0.250000
+[20:37:30.773] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[20:37:30.773] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:37:30.773] 4 test iterations per epoch
+[20:37:40.375] Mean class 1 dice 0.250000
+[20:37:40.375] Testing performance in best val model: dice : 0.250000
+[20:49:36.493] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[20:49:36.494] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:49:36.494] 4 test iterations per epoch
+[20:49:46.049] Mean class 1 dice 0.250000
+[20:49:46.049] Testing performance in best val model: dice : 0.250000
+[20:51:22.287] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[20:51:22.287] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:51:22.288] 4 test iterations per epoch
+[20:51:31.943] Mean class 1 dice 0.250000
+[20:51:31.943] Testing performance in best val model: dice : 0.250000
+[20:56:04.269] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[20:56:04.269] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[20:56:04.269] 4 test iterations per epoch
+[20:56:13.843] Mean class 1 dice 0.250000
+[20:56:13.843] Testing performance in best val model: dice : 0.250000
+[21:05:24.707] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[21:05:24.708] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[21:05:24.708] 4 test iterations per epoch
+[21:05:34.546] Mean class 1 dice 0.250000
+[21:05:34.546] Testing performance in best val model: dice : 0.250000
+[21:06:16.939] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[21:06:16.939] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[21:06:16.939] 4 test iterations per epoch
+[21:06:26.583] Mean class 1 dice 0.250000
+[21:06:26.583] Testing performance in best val model: dice : 0.250000
+[21:06:57.453] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[21:06:57.453] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[21:06:57.453] 4 test iterations per epoch
+[21:07:07.007] Mean class 1 dice 0.250000
+[21:07:07.008] Testing performance in best val model: dice : 0.250000
+[21:07:34.793] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[21:07:34.793] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[21:07:34.794] 4 test iterations per epoch
+[21:07:44.481] Mean class 1 dice 0.250000
+[21:07:44.481] Testing performance in best val model: dice : 0.250000
+[21:08:27.377] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[21:08:27.377] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[21:08:27.378] 4 test iterations per epoch
+[21:08:37.110] Mean class 1 dice 0.250000
+[21:08:37.110] Testing performance in best val model: dice : 0.250000
+[21:13:42.166] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[21:13:42.167] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[21:13:42.167] 4 test iterations per epoch
+[21:13:51.992] Mean class 1 dice 0.250000
+[21:13:51.992] Testing performance in best val model: dice : 0.250000
+[21:18:03.758] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[21:18:03.758] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[21:18:03.759] 4 test iterations per epoch
+[21:18:13.318] Mean class 1 dice 0.250000
+[21:18:13.318] Testing performance in best val model: dice : 0.250000
+[21:19:21.266] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[21:19:21.266] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[21:19:21.267] 4 test iterations per epoch
+[21:19:48.934] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[21:19:48.934] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[21:19:48.935] 4 test iterations per epoch
+[21:19:58.594] Mean class 1 dice 0.250000
+[21:19:58.595] Testing performance in best val model: dice : 0.250000
+[21:20:46.244] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[21:20:46.244] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[21:20:46.244] 4 test iterations per epoch
+[21:20:55.772] Mean class 1 dice 0.250000
+[21:20:55.772] Testing performance in best val model: dice : 0.250000
+[22:04:00.366] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[22:04:00.366] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[22:04:00.366] 0 test iterations per epoch
+[22:04:37.106] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[22:04:37.106] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[22:04:37.106] 4 test iterations per epoch
+[22:04:46.682] Mean class 1 dice 0.250000
+[22:04:46.682] Testing performance in best val model: dice : 0.250000
+[21:26:17.870] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[21:26:17.870] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[21:26:17.871] 4 test iterations per epoch
+[21:26:28.288] Mean class 1 dice 0.250000
+[21:26:28.288] Testing performance in best val model: dice : 0.250000
+[23:01:23.257] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[23:01:23.281] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[23:01:23.291] 4 test iterations per epoch
+[23:01:34.425] Mean class 1 dice 0.250000
+[23:01:34.425] Testing performance in best val model: dice : 0.250000
+[16:41:36.139] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI/CAT-UNet/x_rays_data', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI/CAT-UNet/x_rays_data', z_spacing=1)
+[16:41:36.139] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:41:36.140] 4 test iterations per epoch
+[16:41:46.154] Mean class 1 dice 0.250000
+[16:41:46.154] Testing performance in best val model: dice : 0.250000
+[16:45:52.062] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:45:52.062] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:45:52.062] 4 test iterations per epoch
+[16:46:01.582] Mean class 1 dice 0.250000
+[16:46:01.583] Testing performance in best val model: dice : 0.250000
+[16:47:19.558] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:47:19.558] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:47:19.559] 4 test iterations per epoch
+[16:47:29.392] Mean class 1 dice 0.250000
+[16:47:29.393] Testing performance in best val model: dice : 0.250000
+[16:48:59.909] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:48:59.909] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:48:59.910] 4 test iterations per epoch
+[16:49:09.406] Mean class 1 dice 0.250000
+[16:49:09.406] Testing performance in best val model: dice : 0.250000
+[16:53:19.615] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:53:19.615] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:53:19.616] 4 test iterations per epoch
+[16:53:29.214] Mean class 1 dice 0.250000
+[16:53:29.214] Testing performance in best val model: dice : 0.250000
+[16:56:06.651] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:56:06.651] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:56:06.652] 4 test iterations per epoch
+[16:56:16.003] Mean class 1 dice 0.250000
+[16:56:16.004] Testing performance in best val model: dice : 0.250000
+[16:57:49.712] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:57:49.712] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:57:49.713] 4 test iterations per epoch
+[16:57:59.131] Mean class 1 dice 0.250000
+[16:57:59.131] Testing performance in best val model: dice : 0.250000
+[16:59:08.072] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:59:08.072] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:59:08.073] 4 test iterations per epoch
+[16:59:17.394] Mean class 1 dice 0.250000
+[16:59:17.394] Testing performance in best val model: dice : 0.250000
+[17:03:53.107] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[17:03:53.107] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[17:03:53.107] 4 test iterations per epoch
+[17:04:02.420] Mean class 1 dice 0.250000
+[17:04:02.420] Testing performance in best val model: dice : 0.250000
+[19:51:34.690] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[19:51:34.690] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[19:51:34.690] 4 test iterations per epoch
+[19:51:43.951] Mean class 1 dice 0.250000
+[19:51:43.951] Testing performance in best val model: dice : 0.250000
+[22:12:23.067] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[22:12:23.067] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[22:12:23.068] 4 test iterations per epoch
+[22:12:32.693] Mean class 1 dice 0.250000
+[22:12:32.693] Testing performance in best val model: dice : 0.250000
+[23:57:38.113] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[23:57:38.113] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[23:57:38.114] 4 test iterations per epoch
+[23:57:47.515] Mean class 1 dice 0.250000
+[23:57:47.515] Testing performance in best val model: dice : 0.250000
+[14:38:20.316] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[14:38:20.316] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:38:20.317] 4 test iterations per epoch
+[14:38:29.911] Mean class 1 dice 0.250000
+[14:38:29.911] Testing performance in best val model: dice : 0.250000
+[14:38:54.581] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[14:38:54.581] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:38:54.582] 4 test iterations per epoch
+[14:39:04.059] Mean class 1 dice 0.250000
+[14:39:04.059] Testing performance in best val model: dice : 0.250000
+[14:38:44.208] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[14:38:44.225] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[14:38:44.226] 4 test iterations per epoch
+[14:38:55.641] Mean class 1 dice 0.250000
+[14:38:55.641] Testing performance in best val model: dice : 0.250000
+[17:13:22.865] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[17:13:22.865] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[17:13:22.865] 4 test iterations per epoch
+[17:13:33.079] Mean class 1 dice 0.250000
+[17:13:33.079] Testing performance in best val model: dice : 0.250000
+[19:29:49.885] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[19:29:49.886] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[19:29:49.886] 4 test iterations per epoch
+[19:29:59.707] Mean class 1 dice 0.250000
+[19:29:59.707] Testing performance in best val model: dice : 0.250000
+[13:00:05.306] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[13:00:05.307] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[13:00:05.307] 4 test iterations per epoch
+[13:00:15.460] Mean class 1 dice 0.250000
+[13:00:15.460] Testing performance in best val model: dice : 0.250000
+[15:09:33.019] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:09:33.019] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:09:33.020] 4 test iterations per epoch
+[15:09:42.564] Mean class 1 dice 0.250000
+[15:09:42.564] Testing performance in best val model: dice : 0.250000
+[15:32:34.606] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:32:34.606] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:32:34.607] 4 test iterations per epoch
+[15:32:44.194] Mean class 1 dice 0.250000
+[15:32:44.194] Testing performance in best val model: dice : 0.250000
+[15:35:47.944] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:35:47.944] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:35:47.945] 4 test iterations per epoch
+[15:35:57.404] Mean class 1 dice 0.250000
+[15:35:57.404] Testing performance in best val model: dice : 0.250000
+[15:40:46.002] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:40:46.002] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:40:46.002] 4 test iterations per epoch
+[15:40:55.579] Mean class 1 dice 0.250000
+[15:40:55.580] Testing performance in best val model: dice : 0.250000
+[15:47:01.612] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:47:01.612] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:47:01.613] 4 test iterations per epoch
+[15:52:08.757] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:52:08.758] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:52:08.758] 4 test iterations per epoch
+[15:52:18.334] Mean class 1 dice 0.250000
+[15:52:18.334] Testing performance in best val model: dice : 0.250000
+[16:08:41.584] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:08:41.584] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:08:41.585] 4 test iterations per epoch
+[16:08:51.120] Mean class 1 dice 0.250000
+[16:08:51.120] Testing performance in best val model: dice : 0.250000
+[16:14:39.539] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:14:39.539] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:14:39.540] 1 test iterations per epoch
+[16:14:42.311] Mean class 1 dice 1.000000
+[16:14:42.312] Testing performance in best val model: dice : 1.000000
+[16:18:45.252] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:18:45.252] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:18:45.253] 1 test iterations per epoch
+[16:18:48.112] Mean class 1 dice 0.000000
+[16:18:48.112] Testing performance in best val model: dice : 0.000000
+[16:20:07.872] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:20:07.872] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:20:07.872] 2 test iterations per epoch
+[16:20:12.813] Mean class 1 dice 0.500000
+[16:20:12.813] Testing performance in best val model: dice : 0.500000
+[16:20:38.507] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:20:38.507] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:20:38.507] 2 test iterations per epoch
+[16:20:43.421] Mean class 1 dice 0.500000
+[16:20:43.421] Testing performance in best val model: dice : 0.500000
+[16:21:29.601] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:21:29.601] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:21:29.602] 2 test iterations per epoch
+[16:21:34.609] Mean class 1 dice 0.500000
+[16:21:34.609] Testing performance in best val model: dice : 0.500000
+[00:55:17.682] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[00:55:17.682] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[00:55:17.682] 1 test iterations per epoch
+[00:55:20.410] Mean class 1 dice 1.000000
+[00:55:20.411] Testing performance in best val model: dice : 1.000000
+[00:56:27.250] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[00:56:27.250] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[00:56:27.250] 4 test iterations per epoch
+[00:56:36.596] Mean class 1 dice 0.250000
+[00:56:36.596] Testing performance in best val model: dice : 0.250000
+[00:57:01.047] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[00:57:01.047] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[00:57:01.048] 1 test iterations per epoch
+[00:57:03.842] Mean class 1 dice 0.000000
+[00:57:03.842] Testing performance in best val model: dice : 0.000000
+[00:59:02.446] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[00:59:02.446] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[00:59:02.447] 1 test iterations per epoch
+[00:59:05.211] Mean class 1 dice 1.000000
+[00:59:05.211] Testing performance in best val model: dice : 1.000000
+[00:59:17.352] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[00:59:17.352] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[00:59:17.353] 1 test iterations per epoch
+[00:59:20.115] Mean class 1 dice 0.000000
+[00:59:20.115] Testing performance in best val model: dice : 0.000000
+[00:59:28.796] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[00:59:28.796] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[00:59:28.796] 1 test iterations per epoch
+[00:59:31.569] Mean class 1 dice 0.000000
+[00:59:31.569] Testing performance in best val model: dice : 0.000000
+[00:59:47.451] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[00:59:47.451] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[00:59:47.452] 1 test iterations per epoch
+[00:59:50.263] Mean class 1 dice 0.000000
+[00:59:50.263] Testing performance in best val model: dice : 0.000000
+[15:11:27.852] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:11:27.852] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:11:27.853] 4 test iterations per epoch
+[15:11:37.140] Mean class 1 dice 0.250000
+[15:11:37.140] Testing performance in best val model: dice : 0.250000
+[15:37:30.745] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:37:30.745] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:37:30.746] 1 test iterations per epoch
+[15:37:33.564] Mean class 1 dice 0.000000
+[15:37:33.565] Testing performance in best val model: dice : 0.000000
+[15:44:03.666] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:44:03.666] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:44:03.667] 1 test iterations per epoch
+[15:44:06.426] Mean class 1 dice 1.000000
+[15:44:06.426] Testing performance in best val model: dice : 1.000000
+[15:44:22.330] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:44:22.331] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:44:22.331] 1 test iterations per epoch
+[15:44:25.128] Mean class 1 dice 0.000000
+[15:44:25.128] Testing performance in best val model: dice : 0.000000
+[15:47:34.766] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:47:34.767] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:47:34.767] 1 test iterations per epoch
+[15:47:37.526] Mean class 1 dice 1.000000
+[15:47:37.527] Testing performance in best val model: dice : 1.000000
+[15:48:21.425] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:48:21.425] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:48:21.426] 1 test iterations per epoch
+[15:48:24.271] Mean class 1 dice 1.000000
+[15:48:24.271] Testing performance in best val model: dice : 1.000000
+[15:49:46.247] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:49:46.247] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:49:46.247] 1 test iterations per epoch
+[15:49:48.979] Mean class 1 dice 1.000000
+[15:49:48.979] Testing performance in best val model: dice : 1.000000
+[15:50:39.510] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:50:39.510] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:50:39.510] 1 test iterations per epoch
+[15:50:42.345] Mean class 1 dice 1.000000
+[15:50:42.345] Testing performance in best val model: dice : 1.000000
+[15:52:43.755] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:52:43.755] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:52:43.756] 1 test iterations per epoch
+[15:52:46.525] Mean class 1 dice 1.000000
+[15:52:46.525] Testing performance in best val model: dice : 1.000000
+[15:52:58.705] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:52:58.705] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:52:58.705] 1 test iterations per epoch
+[15:53:01.527] Mean class 1 dice 0.000000
+[15:53:01.527] Testing performance in best val model: dice : 0.000000
+[15:56:41.315] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:56:41.315] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:56:41.316] 1 test iterations per epoch
+[15:56:44.123] Mean class 1 dice 1.000000
+[15:56:44.123] Testing performance in best val model: dice : 1.000000
+[15:56:56.351] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[15:56:56.351] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[15:56:56.351] 1 test iterations per epoch
+[15:56:59.212] Mean class 1 dice 0.000000
+[15:56:59.212] Testing performance in best val model: dice : 0.000000
+[16:09:40.614] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:09:40.614] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:09:40.614] 1 test iterations per epoch
+[16:09:43.462] Mean class 1 dice 1.000000
+[16:09:43.462] Testing performance in best val model: dice : 1.000000
+[16:10:13.715] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:10:13.715] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:10:13.716] 1 test iterations per epoch
+[16:10:16.501] Mean class 1 dice 1.000000
+[16:10:16.501] Testing performance in best val model: dice : 1.000000
+[16:19:30.129] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:19:30.129] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:19:30.130] 1 test iterations per epoch
+[16:19:32.929] Mean class 1 dice 0.000000
+[16:19:32.929] Testing performance in best val model: dice : 0.000000
+[16:27:23.538] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:27:23.538] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:27:23.539] 1 test iterations per epoch
+[16:27:26.339] Mean class 1 dice 1.000000
+[16:27:26.339] Testing performance in best val model: dice : 1.000000
+[16:27:37.083] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:27:37.083] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:27:37.084] 1 test iterations per epoch
+[16:27:39.908] Mean class 1 dice 0.000000
+[16:27:39.908] Testing performance in best val model: dice : 0.000000
+[16:28:12.016] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:28:12.016] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:28:12.016] 1 test iterations per epoch
+[16:28:14.803] Mean class 1 dice 1.000000
+[16:28:14.803] Testing performance in best val model: dice : 1.000000
+[16:28:25.688] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:28:25.688] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:28:25.689] 1 test iterations per epoch
+[16:28:28.566] Mean class 1 dice 0.000000
+[16:28:28.566] Testing performance in best val model: dice : 0.000000
+[16:28:35.791] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:28:35.791] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:28:35.792] 1 test iterations per epoch
+[16:28:38.595] Mean class 1 dice 0.000000
+[16:28:38.595] Testing performance in best val model: dice : 0.000000
+[16:28:48.053] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:28:48.053] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:28:48.054] 1 test iterations per epoch
+[16:28:50.891] Mean class 1 dice 0.000000
+[16:28:50.891] Testing performance in best val model: dice : 0.000000
+[16:32:52.951] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:32:52.951] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:32:52.952] 1 test iterations per epoch
+[16:32:55.822] Mean class 1 dice 0.000000
+[16:32:55.823] Testing performance in best val model: dice : 0.000000
+[16:48:23.331] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:48:23.331] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:48:23.332] 1 test iterations per epoch
+[16:48:26.193] Mean class 1 dice 1.000000
+[16:48:26.194] Testing performance in best val model: dice : 1.000000
+[16:48:43.755] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:48:43.755] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:48:43.756] 1 test iterations per epoch
+[16:48:46.527] Mean class 1 dice 0.000000
+[16:48:46.527] Testing performance in best val model: dice : 0.000000
+[16:51:51.184] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:51:51.184] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:51:51.185] 1 test iterations per epoch
+[16:51:53.961] Mean class 1 dice 1.000000
+[16:51:53.961] Testing performance in best val model: dice : 1.000000
+[16:52:07.181] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[16:52:07.181] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:52:07.182] 4 test iterations per epoch
+[16:52:16.703] Mean class 1 dice 0.250000
+[16:52:16.703] Testing performance in best val model: dice : 0.250000
+[22:24:41.443] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[22:24:41.444] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[22:24:41.444] 4 test iterations per epoch
+[22:24:50.947] Mean class 1 dice 0.250000
+[22:24:50.947] Testing performance in best val model: dice : 0.250000
+[22:26:04.422] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[22:26:04.422] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[22:26:04.423] 1 test iterations per epoch
+[22:26:07.228] Mean class 1 dice 1.000000
+[22:26:07.228] Testing performance in best val model: dice : 1.000000
+[22:31:15.528] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[22:31:15.528] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[22:31:15.529] 1 test iterations per epoch
+[22:31:18.261] Mean class 1 dice 1.000000
+[22:31:18.261] Testing performance in best val model: dice : 1.000000
+[10:08:07.949] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[10:08:07.949] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[10:08:07.950] 4 test iterations per epoch
+[10:08:17.150] Mean class 1 dice 0.250000
+[10:08:17.150] Testing performance in best val model: dice : 0.250000
+[10:11:48.285] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[10:11:48.285] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[10:11:48.285] 1 test iterations per epoch
+[10:11:51.128] Mean class 1 dice 0.000000
+[10:11:51.128] Testing performance in best val model: dice : 0.000000
+[10:41:32.682] Namespace(Dataset=datasets.own_data_predict.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/UI//x_rays', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/UI//x_rays', z_spacing=1)
+[10:41:32.682] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[10:41:32.683] 4 test iterations per epoch
+[10:41:42.108] Mean class 1 dice 0.250000
+[10:41:42.108] Testing performance in best val model: dice : 0.250000
