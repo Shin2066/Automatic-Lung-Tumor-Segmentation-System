@@ -1,0 +1,26 @@
+[14:56:08.362] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, root_path='D:/x-ray-data/0109_datasets_old/normal', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/x-ray-data/0109_datasets_old/normal', z_spacing=1)
+[14:56:08.362] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs2_512_s0
+[14:56:08.366] 491 test iterations per epoch
+[17:17:07.079] Namespace(base_lr=0.01, base_size=512, batch_size=1, dataset='own', deterministic=1, img_size=512, is_pretrain=True, list_dir='', max_epochs=150, max_iterations=30000, n_gpu=1, n_skip=3, num_classes=2, root_path='D:/x-ray-data/0109_datasets/normal', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[17:17:07.139] 1398 iterations per epoch. 209700 max iterations 
+[17:17:08.079] iteration 1 : loss : 1.111480, loss_ce: 1.111480
+[17:26:50.662] Namespace(base_lr=0.01, base_size=512, batch_size=1, dataset='own', deterministic=1, img_size=512, is_pretrain=True, list_dir='', max_epochs=150, max_iterations=30000, n_gpu=1, n_skip=3, num_classes=2, root_path='D:/x-ray-data/0109_datasets/normal', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[17:26:50.675] 1398 iterations per epoch. 209700 max iterations 
+[17:29:00.198] Namespace(base_lr=0.01, base_size=512, batch_size=1, dataset='own', deterministic=1, img_size=512, is_pretrain=True, list_dir='', max_epochs=150, max_iterations=30000, n_gpu=1, n_skip=3, num_classes=2, root_path='D:/x-ray-data/0109_datasets/normal', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[17:29:00.212] 1398 iterations per epoch. 209700 max iterations 
+[17:35:24.819] Namespace(base_lr=0.01, base_size=512, batch_size=1, dataset='own', deterministic=1, img_size=512, is_pretrain=True, list_dir='', max_epochs=150, max_iterations=30000, n_gpu=1, n_skip=3, num_classes=2, root_path='D:/x-ray-data/0109_datasets/normal', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[17:35:24.835] 1398 iterations per epoch. 209700 max iterations 
+[17:52:22.127] Namespace(base_lr=0.01, base_size=512, batch_size=1, dataset='own', deterministic=1, img_size=512, is_pretrain=True, list_dir='', max_epochs=150, max_iterations=30000, n_gpu=1, n_skip=3, num_classes=2, root_path='D:/x-ray-data/0109_datasets/normal', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[17:52:22.142] 1398 iterations per epoch. 209700 max iterations 
+[17:54:46.798] Namespace(base_lr=0.01, base_size=512, batch_size=1, dataset='own', deterministic=1, img_size=512, is_pretrain=True, list_dir='', max_epochs=150, max_iterations=30000, n_gpu=1, n_skip=3, num_classes=2, root_path='D:/x-ray-data/0109_datasets/normal', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[17:54:46.813] 1398 iterations per epoch. 209700 max iterations 
+[17:55:05.139] Namespace(base_lr=0.01, base_size=224, batch_size=1, dataset='own', deterministic=1, img_size=224, is_pretrain=True, list_dir='', max_epochs=150, max_iterations=30000, n_gpu=1, n_skip=3, num_classes=2, root_path='D:/x-ray-data/0109_datasets/normal', seed=1234, vit_name='R50-ViT-B_16', vit_patches_size=16)
+[17:55:05.154] 1398 iterations per epoch. 209700 max iterations 
+[13:52:52.569] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, root_path='D:/x-ray-data/0109_datasets_old/normal', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/x-ray-data/0109_datasets_old/normal', z_spacing=1)
+[13:52:52.570] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs2_512_s0
+[13:52:52.576] 491 test iterations per epoch
+[16:59:05.762] Namespace(Dataset=datasets.own_data.ImageFolder, base_lr=0.01, batch_size=2, dataset='own', deterministic=1, exp='TU_own512', img_size=512, is_pretrain=True, is_savenii=True, list_dir='', max_epochs=150, max_iterations=20000, n_skip=4, num_classes=2, root_path='D:/x-ray-data/0109_datasets_old/normal', seed=0, test_save_dir='../predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='D:/x-ray-data/0109_datasets_old/normal', z_spacing=1)
+[16:59:05.763] TU_pretrain_R50-ViT-B_16_skip4_epo150_bs2_512_s0
+[16:59:05.783] 491 test iterations per epoch
+[17:01:35.111] Mean class 1 dice 0.851472
+[17:01:35.111] Testing performance in best val model: dice : 0.851472
